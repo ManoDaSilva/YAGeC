@@ -4,7 +4,7 @@ Created using EasyEDA
 
 ## Schematic - hardware design
 Design is based off a random number generator [I made some time ago](https://github.com/ManoDaSilva/RNG), based off [DIYGeigerCounter's design](https://sites.google.com/site/diygeigercounter/technical/circuit-description?authuser=0)
-![Schematic](img/schematic.jpg?raw=true "Schematic")
+![Schematic](img/schematic.png?raw=true "Schematic")
 
 
 
